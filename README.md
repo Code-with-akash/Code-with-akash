@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Code-with-akash
-- 👀 I’m interested in Web Developemnt
+- 👀 I’m interested in Campaign Developemnt & Data analytics
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me akash.kodale@outook.com
