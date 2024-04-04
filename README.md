@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-with-akash
-- 👀 I’m interested in Campaign Developemnt & Data analytics
+- 👀 I’m interested in Campaign development & Data Analytics
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Campaign Development & Analytics
 - 📫 Reach me akash.kodale@outook.com
 - 🌱 Linkedin https://www.linkedin.com/in/akashkodale/
