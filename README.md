@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-with-akash
+- 👋 Hi, I’m Akash Kodale
 - 👀 I’m interested in Campaign development & Data Analytics
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Campaign Development & Analytics
